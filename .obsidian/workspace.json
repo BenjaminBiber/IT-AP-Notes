@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Home.md",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Home"
+              "title": "Vollmachten"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Home.md",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Home"
+              "title": "Backlinks for Vollmachten"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Home.md",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Home"
+              "title": "Outgoing links from Vollmachten"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Home.md"
+                "file": "Aufbau Organisation/Vollmachten.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Home"
+              "title": "Outline of Vollmachten"
             }
           },
           {
@@ -178,8 +178,11 @@
   },
   "active": "db2f40183441aba0",
   "lastOpenFiles": [
-    "Home.md",
     "Aufbau Organisation/Kriterien der Aufbau Organisation.md",
+    "Aufbau Organisation/Vollmachten.md",
+    "Images/Pasted image 20250108090503.jpg",
+    "Images/Funktionale Organisation-1.webp",
+    "Home.md",
     "Stabliniensystem.md",
     "Images/Pasted image 20250108090140.jpg",
     "Aufbau Organisation/Organigramm.md",
