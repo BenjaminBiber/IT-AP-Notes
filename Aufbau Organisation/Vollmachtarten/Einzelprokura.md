@@ -1,0 +1,1 @@
+Auswirkung der Vollmacht ohne Mitwirken einer anderen Person

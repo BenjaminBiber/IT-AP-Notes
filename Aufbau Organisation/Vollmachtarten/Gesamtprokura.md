@@ -1,0 +1,1 @@
+Ausüben der Vollmacht nur in Zusammenarbeit mit einer anderen vertretungsberechtigten Person
