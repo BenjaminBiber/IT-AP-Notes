@@ -1,5 +1,7 @@
-Die Netzplantechnik dient der Beschreibung von Prozessen / Projekten in einer Strukturanalyse. Dabei werden alle Vorgänge in Ihrer Abhängigkeit und Reihenfolge verkettet.
+Die Netzplantechnik dient der Beschreibung von Prozessen / Projekten in einer Strukturanalyse. Dabei werden alle Vorgänge in Ihrer Abhängigkeit und Reihenfolge verkettet. Der Netzplan ergibt sich dabei aus der Zeit- und Strukturanalyse: 
 
+![[Netzplan-Abbildung-17-Vorgangsliste-mit-Zeitananlyse.webp]]
+*In der Struktur- und Zeitanalyse werden alle Vorgänge eines Projektes aufgeführt und die Notwendigen Zeiten und Puffer vergeben*
 ## Vorgangsknoten
 Ein Vorgangsknoten beschreibt einen Bruchteil eines Projektes / eines Prozesses.
 ![[Pasted image 20250108134244.jpg]]
