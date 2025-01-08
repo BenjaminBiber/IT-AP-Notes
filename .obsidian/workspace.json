@@ -34,9 +34,21 @@
               "icon": "lucide-file",
               "title": "Netzplantechnik"
             }
+          },
+          {
+            "id": "9511a05abfb5649a",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "flussdiagramm-beispiel.webp"
+              },
+              "icon": "lucide-image",
+              "title": "flussdiagramm-beispiel"
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -108,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Netzplantechnik.md",
+                "file": "flussdiagramm-beispiel.webp",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Netzplantechnik"
+              "title": "Backlinks for flussdiagramm-beispiel"
             }
           },
           {
@@ -127,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Netzplantechnik.md",
+                "file": "flussdiagramm-beispiel.webp",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Netzplantechnik"
+              "title": "Outgoing links from flussdiagramm-beispiel"
             }
           },
           {
@@ -154,10 +166,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Netzplantechnik.md"
+                "file": "flussdiagramm-beispiel.webp"
               },
               "icon": "lucide-list",
-              "title": "Outline of Netzplantechnik"
+              "title": "Outline of flussdiagramm-beispiel"
             }
           },
           {
@@ -191,10 +203,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fdac0c18095edd42",
+  "active": "d9b1a0a9cf38224d",
   "lastOpenFiles": [
-    "Aufbau Organisation/Ablauforganisation.md",
+    "Untitled.md",
     "Netzplantechnik.md",
+    "Aufbau Organisation/Ablauforganisation.md",
     "Flussdiagramm.md",
     "flussdiagramm-beispiel.webp",
     "Aufbau Organisation/Vollmachtarten/Allgemeine Handelsvollmacht.md",
@@ -231,7 +244,6 @@
     "Bild Arten.md",
     "Das ist ein Test mit Git.md",
     "Test.md",
-    "2025-01-07.md",
-    "Test Notiz 1.md"
+    "2025-01-07.md"
   ]
 }
