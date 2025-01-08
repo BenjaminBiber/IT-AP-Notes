@@ -1,0 +1,1 @@
+Beschränkung der Vollmacht auf eine Niederlassung

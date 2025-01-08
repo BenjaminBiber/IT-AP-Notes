@@ -1,0 +1,13 @@
+{
+	"nodes":[
+		{"id":"759edd329b15b980","x":-400,"y":-180,"width":250,"height":60,"type":"text","text":"Kaufmann"},
+		{"id":"6f5eab7d78307f33","type":"text","text":"Prokura","x":100,"y":-180,"width":362,"height":60},
+		{"id":"ff4706b7dc7a4594","x":-400,"y":-20,"width":250,"height":60,"type":"text","text":"Prokurist"},
+		{"id":"0dc5cd3f85634f8e","type":"text","text":"Allgemeine Handelsvollmacht","x":100,"y":-20,"width":362,"height":60},
+		{"id":"bb0fc4fc69a17846","type":"text","text":"Allg. Handlungsbevollmächtigter","x":-400,"y":160,"width":362,"height":60},
+		{"id":"99bade1176059e5c","type":"text","text":"Artbevollmacht","x":100,"y":160,"width":362,"height":60},
+		{"id":"155ae8c7a0aa3ff9","type":"text","text":"Artbevollmächtigter","x":-400,"y":320,"width":362,"height":60},
+		{"id":"101354e134d9f5ac","type":"text","text":"Einzelvollmacht","x":100,"y":320,"width":362,"height":60}
+	],
+	"edges":[]
+}

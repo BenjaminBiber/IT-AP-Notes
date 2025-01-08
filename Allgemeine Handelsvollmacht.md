@@ -1,0 +1,1 @@
+Vollmacht zur erledigung von gewöhnlichen Rechtsgeschäften ihn dem betreffendem Handelsgewerbe auf Dauer

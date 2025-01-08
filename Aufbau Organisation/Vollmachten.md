@@ -8,6 +8,8 @@
 - [[Filialprokura]]
 ### Handelsvollmacht
 *Ermächtigt eine Flexibel gestaltbare Vollmacht, welche auf spezifische Aufgaben aufgeteilt werden kann, ohne Eintragung ins Handelsregister* 
+
+#### Arten der Handelsvollmacht
 - [[Allgemeine Handelsvollmacht]]
 - [[Artvollmacht]]
 - [[Spezialvollmacht]]

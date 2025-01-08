@@ -1,0 +1,1 @@
+Vollmacht zum Erledigen eines speziellen Geschäfts. Z.B. Kauf eines Pcs
