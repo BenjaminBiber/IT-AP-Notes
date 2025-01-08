@@ -39,12 +39,14 @@
             "id": "9511a05abfb5649a",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "flussdiagramm-beispiel.webp"
+                "file": "Aufbau Organisation/Vollmachten.md",
+                "mode": "preview",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "flussdiagramm-beispiel"
+              "icon": "lucide-file",
+              "title": "Vollmachten"
             }
           }
         ],
@@ -120,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "flussdiagramm-beispiel.webp",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +132,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for flussdiagramm-beispiel"
+              "title": "Backlinks for Vollmachten"
             }
           },
           {
@@ -139,12 +141,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "flussdiagramm-beispiel.webp",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from flussdiagramm-beispiel"
+              "title": "Outgoing links from Vollmachten"
             }
           },
           {
@@ -166,10 +168,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "flussdiagramm-beispiel.webp"
+                "file": "Aufbau Organisation/Vollmachten.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of flussdiagramm-beispiel"
+              "title": "Outline of Vollmachten"
             }
           },
           {
@@ -203,13 +205,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "d9b1a0a9cf38224d",
+  "active": "9511a05abfb5649a",
   "lastOpenFiles": [
+    "Aufbau Organisation/Organigrammarten/Flussdiagramm.md",
+    "Images/flussdiagramm-beispiel.webp",
     "Untitled.md",
     "Netzplantechnik.md",
     "Aufbau Organisation/Ablauforganisation.md",
-    "Flussdiagramm.md",
-    "flussdiagramm-beispiel.webp",
     "Aufbau Organisation/Vollmachtarten/Allgemeine Handelsvollmacht.md",
     "Aufbau Organisation/Vollmachtarten/Artvollmacht.md",
     "Aufbau Organisation/Ablauforganisationsarten",
@@ -243,7 +245,6 @@
     "JPEG.md",
     "Bild Arten.md",
     "Das ist ein Test mit Git.md",
-    "Test.md",
-    "2025-01-07.md"
+    "Test.md"
   ]
 }
