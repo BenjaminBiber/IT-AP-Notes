@@ -1,1 +1,0 @@
-Die Netzplantechnik dient der Beschreibung von Prozessen / Projekten in einer Strukturanalyse. Dabei werden alle Vorgänge in Ihrer Abhängigkeit und Reihenfolge verkettet.
