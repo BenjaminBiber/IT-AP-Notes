@@ -11,17 +11,14 @@
             "id": "d69344f94e4c0678",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.canvas",
-                "viewState": {
-                  "x": 286,
-                  "y": 321,
-                  "zoom": 0
-                }
+                "file": "Aufbau Organisation/Vollmachten.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "Vollmachten"
             }
           }
         ]
@@ -96,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -106,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Untitled"
+              "title": "Backlinks for Vollmachten"
             }
           },
           {
@@ -115,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Untitled.canvas",
+                "file": "Aufbau Organisation/Vollmachten.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Untitled"
+              "title": "Outgoing links from Vollmachten"
             }
           },
           {
@@ -142,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Untitled.canvas"
+                "file": "Aufbau Organisation/Vollmachten.md"
               },
               "icon": "lucide-list",
-              "title": "Outline of Untitled"
+              "title": "Outline of Vollmachten"
             }
           },
           {
@@ -181,8 +178,8 @@
   },
   "active": "d69344f94e4c0678",
   "lastOpenFiles": [
+    "Aufbau Organisation/Vollmachtarten/Erteilung der Vollmacht.canvas",
     "Home.md",
-    "Untitled.canvas",
     "Aufbau Organisation/Vollmachten.md",
     "Spezialvollmacht.md",
     "Artvollmacht.md",
