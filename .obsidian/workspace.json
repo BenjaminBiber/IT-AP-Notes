@@ -4,19 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "a0a766d05abe5dd9",
+        "id": "c8476be9eecdcc96",
         "type": "tabs",
         "children": [
           {
-            "id": "db2f40183441aba0",
+            "id": "d69344f94e4c0678",
             "type": "leaf",
             "state": {
               "type": "canvas",
               "state": {
                 "file": "Untitled.canvas",
                 "viewState": {
-                  "x": 48.5,
-                  "y": 109.5,
+                  "x": 31,
+                  "y": 190,
                   "zoom": 0
                 }
               },
@@ -179,10 +179,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "db2f40183441aba0",
+  "active": "d69344f94e4c0678",
   "lastOpenFiles": [
-    "Aufbau Organisation/Vollmachten.md",
+    "Home.md",
     "Untitled.canvas",
+    "Aufbau Organisation/Vollmachten.md",
     "Spezialvollmacht.md",
     "Artvollmacht.md",
     "Allgemeine Handelsvollmacht.md",
@@ -194,7 +195,6 @@
     "Aufbau Organisation/Kriterien der Aufbau Organisation.md",
     "Images/Pasted image 20250108090503.jpg",
     "Images/Funktionale Organisation-1.webp",
-    "Home.md",
     "Images/Pasted image 20250108090140.jpg",
     "Aufbau Organisation/Organigramm.md",
     "Aufbau Organisation/Organigrammarten/Einliniensystem.md",
